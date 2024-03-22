@@ -12,7 +12,7 @@ covered during the presentation + some additional docs!!
 * [KinD](https://kind.sigs.k8s.io/docs/user/quick-start/#installation)
 
 ## Getting started
-* Clone this repo: `git clone https://github.com/rikatz/bangalore-offsite-2024.git`
+* Clone this repo: `git clone https://github.com/vishalud/bangalore-offsite-2024.git`
 * Run `make start`
 After this you will have a kind clusters and you should expect a functional kind cluster.
 
