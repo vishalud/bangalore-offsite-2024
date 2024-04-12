@@ -1,4 +1,4 @@
-# Dissecting Kubernetes: Unveiling Cluster Dynamics through Chaos
+# Dissecting Kubernetes: Learning Cluster Dynamics through Chaos
 
 This repo contains a set of scripts/programs that will help you to have your own
 broken Kubernetes cluster, and then fix it.
