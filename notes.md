@@ -1,5 +1,5 @@
 
-# Parte 1 - Fixing control plane
+# Part 1 - Fixing control plane
 
 ## Api Server
 
@@ -40,7 +40,7 @@ kubectl get pods -o wide
 ```
 
 
-# Parte 2 - Redes
+# Part 2 - Redes
 
 
 ## CNI
